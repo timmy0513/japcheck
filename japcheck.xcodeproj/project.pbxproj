@@ -18,6 +18,8 @@
 		0412DB7D174BEABC00B2B0EA /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0412DB7C174BEABC00B2B0EA /* Default-568h@2x.png */; };
 		0412DB80174BEABC00B2B0EA /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0412DB7E174BEABC00B2B0EA /* MainStoryboard.storyboard */; };
 		0412DB83174BEABC00B2B0EA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0412DB82174BEABC00B2B0EA /* ViewController.m */; };
+		0412DB8B174BEADB00B2B0EA /* 4thword.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0412DB89174BEADB00B2B0EA /* 4thword.plist */; };
+		0412DB8C174BEADB00B2B0EA /* 4thword3.csv in Resources */ = {isa = PBXBuildFile; fileRef = 0412DB8A174BEADB00B2B0EA /* 4thword3.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		0412DB7F174BEABC00B2B0EA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		0412DB81174BEABC00B2B0EA /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		0412DB82174BEABC00B2B0EA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		0412DB89174BEADB00B2B0EA /* 4thword.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = 4thword.plist; path = japcheck/4thword.plist; sourceTree = "<group>"; };
+		0412DB8A174BEADB00B2B0EA /* 4thword3.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 4thword3.csv; path = japcheck/4thword3.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		0412DB5A174BEABB00B2B0EA = {
 			isa = PBXGroup;
 			children = (
+				0412DB89174BEADB00B2B0EA /* 4thword.plist */,
+				0412DB8A174BEADB00B2B0EA /* 4thword3.csv */,
 				0412DB6C174BEABB00B2B0EA /* japcheck */,
 				0412DB65174BEABB00B2B0EA /* Frameworks */,
 				0412DB64174BEABB00B2B0EA /* Products */,
@@ -163,6 +169,8 @@
 				0412DB7B174BEABB00B2B0EA /* Default@2x.png in Resources */,
 				0412DB7D174BEABC00B2B0EA /* Default-568h@2x.png in Resources */,
 				0412DB80174BEABC00B2B0EA /* MainStoryboard.storyboard in Resources */,
+				0412DB8B174BEADB00B2B0EA /* 4thword.plist in Resources */,
+				0412DB8C174BEADB00B2B0EA /* 4thword3.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
